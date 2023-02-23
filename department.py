@@ -77,7 +77,7 @@ def read():
     for value in values:
         print(value)
     conn.commit()
-
+    
 
 if __name__ == '__main__':
     startpy()
